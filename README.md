@@ -39,3 +39,7 @@ We will have a frequence set based off of pervious users, "expert users",
 and how many times a person has answered a question correctly.
 If need be we can even fuse levels to allow a person to keep working on 
 lower set skills while still provding new information
+
+Tech being used:
+
+
