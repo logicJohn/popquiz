@@ -44,3 +44,20 @@ lower set skills while still provding new information
 Tech being used:
 
 
+Popquiz is an education and inequality based app
+
+Purpose: The goal of this app is to engage learning of information to those who either have a passing interest in a field or not a lot of time to dedicate to the field
+
+Problem: People who want to learn new information about a skill set or an area of information are often faced with two major issues
+
+The time to learn a skill can often be extremely limiting. Even just gathering educational resources can be a time-consuming process.
+
+There is always going to be a lack of available information or at least up-to-date information. Whether it be about poverty, science or technology, information is always changing and shifting from day to day and process to process
+
+Method/Solution: Our solution to these problems is based on subtly learning. Instead of having a person dedicate 1 hour or 2 hours a day to learn a skill we want to engage users only seconds-minutes at a time. Slowly working through lower based skills and embedding knowledge through repetitive actions.
+
+Some Q&A: How do we engage users? We will engage users during their personal time through regular intervals as determined by algorithms and user input so that we do not disrupt daily trends and task but still are making progress towards learning goals.
+
+What information do we get across? We offer a unique mixture of Stem Skills and social topics that are kept up-to-date by what we will determine to be "Expert users"
+
+How do we decide when a user is ready to move up in level? We will have a frequency set based off of previous users, "expert users", and how many times a person has answered a question correctly. If need be we can even fuse levels to allow a person to keep working on lower set skills while still providing new information
